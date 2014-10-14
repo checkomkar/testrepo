@@ -5364,6 +5364,10 @@ a.badge:focus {
   padding: 10px 20px;
   font-weight: lighter;
 }
+.first-page .sub-campaign .get-content {
+  margin: 0;
+  padding: 20px;
+}
 .second-page {
   font-family: "lucida grande";
 }
